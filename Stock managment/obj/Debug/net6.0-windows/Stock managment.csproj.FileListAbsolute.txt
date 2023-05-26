@@ -1,0 +1,433 @@
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\Stock managment.exe
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\Stock managment.deps.json
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\Stock managment.runtimeconfig.json
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\Stock managment.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\Stock managment.pdb
+C:\Users\youss\source\repos\Stock managment\Stock managment\obj\Debug\net6.0-windows\Stock managment.csproj.AssemblyReference.cache
+C:\Users\youss\source\repos\Stock managment\Stock managment\obj\Debug\net6.0-windows\Stock_managment.Login.resources
+C:\Users\youss\source\repos\Stock managment\Stock managment\obj\Debug\net6.0-windows\Stock managment.csproj.GenerateResource.cache
+C:\Users\youss\source\repos\Stock managment\Stock managment\obj\Debug\net6.0-windows\Stock managment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youss\source\repos\Stock managment\Stock managment\obj\Debug\net6.0-windows\Stock managment.AssemblyInfoInputs.cache
+C:\Users\youss\source\repos\Stock managment\Stock managment\obj\Debug\net6.0-windows\Stock managment.AssemblyInfo.cs
+C:\Users\youss\source\repos\Stock managment\Stock managment\obj\Debug\net6.0-windows\Stock managment.csproj.CoreCompileInputs.cache
+C:\Users\youss\source\repos\Stock managment\Stock managment\obj\Debug\net6.0-windows\Stock managment.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\obj\Debug\net6.0-windows\refint\Stock managment.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\obj\Debug\net6.0-windows\Stock managment.pdb
+C:\Users\youss\source\repos\Stock managment\Stock managment\obj\Debug\net6.0-windows\Stock managment.genruntimeconfig.cache
+C:\Users\youss\source\repos\Stock managment\Stock managment\obj\Debug\net6.0-windows\ref\Stock managment.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\Bunifu.Licensing.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\RestSharp.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\System.ComponentModel.Composition.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\System.ComponentModel.Composition.Registration.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\System.Data.Odbc.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\System.DirectoryServices.AccountManagement.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\System.Private.ServiceModel.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\System.Reflection.Context.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\System.ServiceModel.Duplex.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\System.ServiceModel.Http.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\System.ServiceModel.NetTcp.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\System.ServiceModel.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\System.ServiceModel.Security.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\System.ServiceModel.Syndication.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\System.ServiceProcess.ServiceController.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\System.Speech.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\System.Web.Services.Description.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\cs\System.Private.ServiceModel.resources.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\de\System.Private.ServiceModel.resources.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\es\System.Private.ServiceModel.resources.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\fr\System.Private.ServiceModel.resources.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\it\System.Private.ServiceModel.resources.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\ja\System.Private.ServiceModel.resources.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\ko\System.Private.ServiceModel.resources.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\pl\System.Private.ServiceModel.resources.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\ru\System.Private.ServiceModel.resources.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\tr\System.Private.ServiceModel.resources.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\cs\System.Web.Services.Description.resources.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\de\System.Web.Services.Description.resources.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\es\System.Web.Services.Description.resources.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\fr\System.Web.Services.Description.resources.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\it\System.Web.Services.Description.resources.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\ja\System.Web.Services.Description.resources.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\ko\System.Web.Services.Description.resources.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\pl\System.Web.Services.Description.resources.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\pt-BR\System.Web.Services.Description.resources.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\ru\System.Web.Services.Description.resources.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\tr\System.Web.Services.Description.resources.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\zh-Hans\System.Web.Services.Description.resources.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\zh-Hant\System.Web.Services.Description.resources.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.ServiceProcess.ServiceController.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Speech.dll
+C:\Users\youss\source\repos\Stock managment\Stock managment\obj\Debug\net6.0-windows\Stock managment.csproj.CopyComplete
+C:\Users\youss\source\repos\Stock managment\Stock managment\obj\Debug\net6.0-windows\Stock_managment.Properties.Resources.resources
+C:\Users\youss\source\repos\Stock managment\Stock managment\obj\Debug\net6.0-windows\Stock_managment.Mainform.resources
+C:\Users\youss\source\repos\Stock managment\Stock managment\obj\Debug\net6.0-windows\Stock_managment.userform.resources
+C:\Users\youss\source\repos\Stock managment\Stock managment\obj\Debug\net6.0-windows\Stock_managment.newusers.resources
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\Stock managment.exe
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\Stock managment.deps.json
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\Stock managment.runtimeconfig.json
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\Stock managment.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\Stock managment.pdb
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\Bunifu.Licensing.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\RestSharp.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\System.ComponentModel.Composition.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\System.ComponentModel.Composition.Registration.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\System.Data.Odbc.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\System.DirectoryServices.AccountManagement.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\System.Private.ServiceModel.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\System.Reflection.Context.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\System.ServiceModel.Duplex.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\System.ServiceModel.Http.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\System.ServiceModel.NetTcp.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\System.ServiceModel.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\System.ServiceModel.Security.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\System.ServiceModel.Syndication.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\System.ServiceProcess.ServiceController.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\System.Speech.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\System.Web.Services.Description.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\cs\System.Private.ServiceModel.resources.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\de\System.Private.ServiceModel.resources.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\es\System.Private.ServiceModel.resources.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\fr\System.Private.ServiceModel.resources.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\it\System.Private.ServiceModel.resources.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\ja\System.Private.ServiceModel.resources.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\ko\System.Private.ServiceModel.resources.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\pl\System.Private.ServiceModel.resources.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\ru\System.Private.ServiceModel.resources.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\tr\System.Private.ServiceModel.resources.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\cs\System.Web.Services.Description.resources.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\de\System.Web.Services.Description.resources.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\es\System.Web.Services.Description.resources.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\fr\System.Web.Services.Description.resources.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\it\System.Web.Services.Description.resources.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\ja\System.Web.Services.Description.resources.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\ko\System.Web.Services.Description.resources.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\pl\System.Web.Services.Description.resources.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\pt-BR\System.Web.Services.Description.resources.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\ru\System.Web.Services.Description.resources.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\tr\System.Web.Services.Description.resources.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\zh-Hans\System.Web.Services.Description.resources.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\zh-Hant\System.Web.Services.Description.resources.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.ServiceProcess.ServiceController.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Speech.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\obj\Debug\net6.0-windows\Stock managment.csproj.AssemblyReference.cache
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\obj\Debug\net6.0-windows\Stock_managment.Login.resources
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\obj\Debug\net6.0-windows\Stock_managment.Mainform.resources
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\obj\Debug\net6.0-windows\Stock_managment.newusers.resources
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\obj\Debug\net6.0-windows\Stock_managment.Properties.Resources.resources
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\obj\Debug\net6.0-windows\Stock_managment.userform.resources
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\obj\Debug\net6.0-windows\Stock managment.csproj.GenerateResource.cache
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\obj\Debug\net6.0-windows\Stock managment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\obj\Debug\net6.0-windows\Stock managment.AssemblyInfoInputs.cache
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\obj\Debug\net6.0-windows\Stock managment.AssemblyInfo.cs
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\obj\Debug\net6.0-windows\Stock managment.csproj.CoreCompileInputs.cache
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\obj\Debug\net6.0-windows\Stock managment.csproj.CopyComplete
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\obj\Debug\net6.0-windows\Stock managment.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\obj\Debug\net6.0-windows\refint\Stock managment.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\obj\Debug\net6.0-windows\Stock managment.pdb
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\obj\Debug\net6.0-windows\Stock managment.genruntimeconfig.cache
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\obj\Debug\net6.0-windows\ref\Stock managment.dll
+C:\Users\drago\Desktop\stock-magament-master\Stock managment\bin\Debug\net6.0-windows\Bunifu.UI.WinForms.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\obj\Debug\net6.0-windows\Stock managment.csproj.AssemblyReference.cache
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\obj\Debug\net6.0-windows\Stock_managment.Login.resources
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\obj\Debug\net6.0-windows\Stock_managment.Mainform.resources
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\obj\Debug\net6.0-windows\Stock_managment.newusers.resources
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\obj\Debug\net6.0-windows\Stock_managment.Properties.Resources.resources
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\obj\Debug\net6.0-windows\Stock_managment.userform.resources
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\obj\Debug\net6.0-windows\Stock managment.csproj.GenerateResource.cache
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\obj\Debug\net6.0-windows\Stock managment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\obj\Debug\net6.0-windows\Stock managment.AssemblyInfoInputs.cache
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\obj\Debug\net6.0-windows\Stock managment.AssemblyInfo.cs
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\obj\Debug\net6.0-windows\Stock managment.csproj.CoreCompileInputs.cache
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\obj\Debug\net6.0-windows\Stock managment.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\obj\Debug\net6.0-windows\refint\Stock managment.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\obj\Debug\net6.0-windows\Stock managment.pdb
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\Stock managment.exe
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\Stock managment.deps.json
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\Stock managment.runtimeconfig.json
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\Stock managment.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\Stock managment.pdb
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\Bunifu.Licensing.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\RestSharp.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\Bunifu.UI.WinForms.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\System.ComponentModel.Composition.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\System.ComponentModel.Composition.Registration.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\System.Data.Odbc.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\System.DirectoryServices.AccountManagement.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\System.Private.ServiceModel.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\System.Reflection.Context.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\System.ServiceModel.Duplex.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\System.ServiceModel.Http.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\System.ServiceModel.NetTcp.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\System.ServiceModel.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\System.ServiceModel.Security.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\System.ServiceModel.Syndication.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\System.ServiceProcess.ServiceController.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\System.Speech.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\System.Web.Services.Description.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\cs\System.Private.ServiceModel.resources.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\de\System.Private.ServiceModel.resources.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\es\System.Private.ServiceModel.resources.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\fr\System.Private.ServiceModel.resources.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\it\System.Private.ServiceModel.resources.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\ja\System.Private.ServiceModel.resources.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\ko\System.Private.ServiceModel.resources.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\pl\System.Private.ServiceModel.resources.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\ru\System.Private.ServiceModel.resources.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\tr\System.Private.ServiceModel.resources.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\cs\System.Web.Services.Description.resources.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\de\System.Web.Services.Description.resources.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\es\System.Web.Services.Description.resources.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\fr\System.Web.Services.Description.resources.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\it\System.Web.Services.Description.resources.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\ja\System.Web.Services.Description.resources.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\ko\System.Web.Services.Description.resources.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\pl\System.Web.Services.Description.resources.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\pt-BR\System.Web.Services.Description.resources.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\ru\System.Web.Services.Description.resources.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\tr\System.Web.Services.Description.resources.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\zh-Hans\System.Web.Services.Description.resources.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\zh-Hant\System.Web.Services.Description.resources.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.ServiceProcess.ServiceController.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Speech.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\obj\Debug\net6.0-windows\Stock managment.csproj.CopyComplete
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\obj\Debug\net6.0-windows\Stock managment.genruntimeconfig.cache
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\obj\Debug\net6.0-windows\ref\Stock managment.dll
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\obj\Debug\net6.0-windows\Stock_managment.manageproduct.resources
+C:\Users\youss\OneDrive\Desktop\stockx-master\Stock managment\obj\Debug\net6.0-windows\Stock_managment.productsform.resources
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\Stock managment.exe
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\Stock managment.deps.json
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\Stock managment.runtimeconfig.json
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\Stock managment.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\Stock managment.pdb
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\Bunifu.Licensing.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\RestSharp.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\Bunifu.UI.WinForms.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\System.ComponentModel.Composition.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\System.ComponentModel.Composition.Registration.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\System.Data.Odbc.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\System.DirectoryServices.AccountManagement.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\System.Private.ServiceModel.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\System.Reflection.Context.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\System.ServiceModel.Duplex.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\System.ServiceModel.Http.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\System.ServiceModel.NetTcp.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\System.ServiceModel.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\System.ServiceModel.Security.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\System.ServiceModel.Syndication.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\System.ServiceProcess.ServiceController.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\System.Speech.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\System.Web.Services.Description.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\cs\System.Private.ServiceModel.resources.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\de\System.Private.ServiceModel.resources.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\es\System.Private.ServiceModel.resources.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\fr\System.Private.ServiceModel.resources.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\it\System.Private.ServiceModel.resources.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\ja\System.Private.ServiceModel.resources.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\ko\System.Private.ServiceModel.resources.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\pl\System.Private.ServiceModel.resources.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\ru\System.Private.ServiceModel.resources.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\tr\System.Private.ServiceModel.resources.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\cs\System.Web.Services.Description.resources.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\de\System.Web.Services.Description.resources.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\es\System.Web.Services.Description.resources.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\fr\System.Web.Services.Description.resources.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\it\System.Web.Services.Description.resources.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\ja\System.Web.Services.Description.resources.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\ko\System.Web.Services.Description.resources.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\pl\System.Web.Services.Description.resources.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\pt-BR\System.Web.Services.Description.resources.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\ru\System.Web.Services.Description.resources.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\tr\System.Web.Services.Description.resources.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\zh-Hans\System.Web.Services.Description.resources.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\zh-Hant\System.Web.Services.Description.resources.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.ServiceProcess.ServiceController.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Speech.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\obj\Debug\net6.0-windows\Stock managment.csproj.AssemblyReference.cache
+C:\Users\drago\Desktop\update_stock-master\Stock managment\obj\Debug\net6.0-windows\Stock_managment.Login.resources
+C:\Users\drago\Desktop\update_stock-master\Stock managment\obj\Debug\net6.0-windows\Stock_managment.Mainform.resources
+C:\Users\drago\Desktop\update_stock-master\Stock managment\obj\Debug\net6.0-windows\Stock_managment.manageproduct.resources
+C:\Users\drago\Desktop\update_stock-master\Stock managment\obj\Debug\net6.0-windows\Stock_managment.productsform.resources
+C:\Users\drago\Desktop\update_stock-master\Stock managment\obj\Debug\net6.0-windows\Stock_managment.Properties.Resources.resources
+C:\Users\drago\Desktop\update_stock-master\Stock managment\obj\Debug\net6.0-windows\Stock_managment.userform.resources
+C:\Users\drago\Desktop\update_stock-master\Stock managment\obj\Debug\net6.0-windows\Stock managment.csproj.GenerateResource.cache
+C:\Users\drago\Desktop\update_stock-master\Stock managment\obj\Debug\net6.0-windows\Stock managment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drago\Desktop\update_stock-master\Stock managment\obj\Debug\net6.0-windows\Stock managment.AssemblyInfoInputs.cache
+C:\Users\drago\Desktop\update_stock-master\Stock managment\obj\Debug\net6.0-windows\Stock managment.AssemblyInfo.cs
+C:\Users\drago\Desktop\update_stock-master\Stock managment\obj\Debug\net6.0-windows\Stock managment.csproj.CoreCompileInputs.cache
+C:\Users\drago\Desktop\update_stock-master\Stock managment\obj\Debug\net6.0-windows\Stock managment.csproj.CopyComplete
+C:\Users\drago\Desktop\update_stock-master\Stock managment\obj\Debug\net6.0-windows\Stock managment.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\obj\Debug\net6.0-windows\refint\Stock managment.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\obj\Debug\net6.0-windows\Stock managment.pdb
+C:\Users\drago\Desktop\update_stock-master\Stock managment\obj\Debug\net6.0-windows\Stock managment.genruntimeconfig.cache
+C:\Users\drago\Desktop\update_stock-master\Stock managment\obj\Debug\net6.0-windows\ref\Stock managment.dll
+C:\Users\drago\Desktop\update_stock-master\Stock managment\obj\Debug\net6.0-windows\Stock_managment.orderform.resources
+C:\Users\drago\Desktop\update_stock-master\Stock managment\obj\Debug\net6.0-windows\Stock_managment.ordermoduleform.resources
+C:\Users\drago\Desktop\update_stock-master\Stock managment\obj\Debug\net6.0-windows\Stock_managment.newcustomer.resources
