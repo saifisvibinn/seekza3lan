@@ -41,8 +41,9 @@
             label1 = new Label();
             price = new TextBox();
             panel1 = new Panel();
-            pid = new TextBox();
             pictureBox1 = new PictureBox();
+            pid = new TextBox();
+            label2 = new Label();
             panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
@@ -183,15 +184,6 @@
             panel1.Size = new Size(604, 87);
             panel1.TabIndex = 22;
             // 
-            // pid
-            // 
-            pid.BorderStyle = BorderStyle.None;
-            pid.Font = new Font("Segoe UI", 16.2F, FontStyle.Regular, GraphicsUnit.Point);
-            pid.Location = new Point(155, 285);
-            pid.Name = "pid";
-            pid.Size = new Size(413, 36);
-            pid.TabIndex = 35;
-            // 
             // pictureBox1
             // 
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
@@ -201,11 +193,32 @@
             pictureBox1.TabIndex = 18;
             pictureBox1.TabStop = false;
             // 
+            // pid
+            // 
+            pid.BorderStyle = BorderStyle.None;
+            pid.Font = new Font("Segoe UI", 16.2F, FontStyle.Regular, GraphicsUnit.Point);
+            pid.Location = new Point(155, 285);
+            pid.Name = "pid";
+            pid.Size = new Size(413, 36);
+            pid.TabIndex = 35;
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.ForeColor = SystemColors.HotTrack;
+            label2.ImeMode = ImeMode.NoControl;
+            label2.Location = new Point(41, 299);
+            label2.Name = "label2";
+            label2.Size = new Size(24, 20);
+            label2.TabIndex = 36;
+            label2.Text = "ID";
+            // 
             // manageproduct
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(606, 445);
+            Controls.Add(label2);
             Controls.Add(pid);
             Controls.Add(button3);
             Controls.Add(button2);
@@ -244,5 +257,6 @@
         private Panel panel1;
         public TextBox pid;
         private PictureBox pictureBox1;
+        private Label label2;
     }
 }

@@ -13,7 +13,7 @@ namespace Stock_managment
 {
     public partial class userform : Form
     {
-        SqlConnection conn = new SqlConnection(@"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=AdminTable;Integrated Security=True");
+        SqlConnection conn = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\drago\OneDrive\Documents\newdb.mdf;Integrated Security=True;Connect Timeout=30");
         SqlCommand cmd = new SqlCommand();
         SqlDataReader dr;
         public userform()
@@ -70,32 +70,7 @@ namespace Stock_managment
 
         private void dataGridViewuser_CellContentClick_1(object sender, DataGridViewCellEventArgs e)
         {
-            string colName = dataGridViewuser.Columns[e.ColumnIndex].Name;
-            if (colName == "Edit")
-            {
-                newcustomer newusers = new newcustomer();
-                newusers.username.Text = dataGridViewuser.Rows[e.RowIndex].Cells[1].Value.ToString();
-                newusers.fullname.Text = dataGridViewuser.Rows[e.RowIndex].Cells[2].Value.ToString();
-                newusers.phonenumber.Text = dataGridViewuser.Rows[e.RowIndex].Cells[3].Value.ToString();
-                newusers.password.Text = dataGridViewuser.Rows[e.RowIndex].Cells[4].Value.ToString();
 
-                newusers.button1.Enabled = false;
-                newusers.button2.Enabled = true;
-                newusers.username.Enabled = false;
-                newusers.ShowDialog();
-
-            }
-            else if (colName == "Delete")
-            {
-                conn.Open();
-                cmd = new SqlCommand("delete from userTbnew where username like '" + dataGridViewuser.Rows[e.RowIndex].Cells[1].Value.ToString() + "'", conn);
-                cmd.ExecuteNonQuery();
-                conn.Close();
-                MessageBox.Show("user deleted successfully");
-
-
-            }
-            loaduser();
         }
 
         private void pictureBox2_Click_1(object sender, EventArgs e)

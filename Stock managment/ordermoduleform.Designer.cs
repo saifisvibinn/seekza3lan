@@ -45,11 +45,12 @@
             Column2 = new DataGridViewTextBoxColumn();
             Column1 = new DataGridViewTextBoxColumn();
             panel3 = new Panel();
-            button3 = new Button();
+            UDQty = new NumericUpDown();
+            btnupdate = new Button();
             button2 = new Button();
             label13 = new Label();
-            button1 = new Button();
-            dateTimePicker1 = new DateTimePicker();
+            btninsert = new Button();
+            odatepick = new DateTimePicker();
             label12 = new Label();
             txtpname = new TextBox();
             label11 = new Label();
@@ -66,16 +67,15 @@
             dataGridViewTextBoxColumn1 = new DataGridViewTextBoxColumn();
             dataGridViewTextBoxColumn2 = new DataGridViewTextBoxColumn();
             dataGridViewTextBoxColumn3 = new DataGridViewTextBoxColumn();
-            Column4 = new DataGridViewTextBoxColumn();
             Column3 = new DataGridViewTextBoxColumn();
-            numericUpDown1 = new NumericUpDown();
+            Column4 = new DataGridViewTextBoxColumn();
             panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)dataGridViewuser).BeginInit();
             panel3.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)UDQty).BeginInit();
             ((System.ComponentModel.ISupportInitialize)dataGridViewproduct).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown1).BeginInit();
             SuspendLayout();
             // 
             // panel1
@@ -93,9 +93,9 @@
             // 
             pictureBox1.Cursor = Cursors.Hand;
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(1064, 0);
+            pictureBox1.Location = new Point(1076, 0);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(50, 50);
+            pictureBox1.Size = new Size(41, 37);
             pictureBox1.TabIndex = 5;
             pictureBox1.TabStop = false;
             pictureBox1.Click += pictureBox1_Click;
@@ -107,9 +107,9 @@
             label1.ForeColor = Color.White;
             label1.Location = new Point(35, 9);
             label1.Name = "label1";
-            label1.Size = new Size(191, 28);
+            label1.Size = new Size(107, 28);
             label1.TabIndex = 4;
-            label1.Text = "Manage customers";
+            label1.Text = "Add order";
             // 
             // panel2
             // 
@@ -210,6 +210,7 @@
             dataGridViewuser.RowTemplate.Height = 29;
             dataGridViewuser.Size = new Size(363, 265);
             dataGridViewuser.TabIndex = 2;
+            dataGridViewuser.CellClick += dataGridViewuser_CellClick;
             dataGridViewuser.CellContentClick += dataGridViewuser_CellContentClick;
             // 
             // Column7
@@ -238,12 +239,12 @@
             // panel3
             // 
             panel3.BackColor = Color.FromArgb(19, 15, 64);
-            panel3.Controls.Add(numericUpDown1);
-            panel3.Controls.Add(button3);
+            panel3.Controls.Add(UDQty);
+            panel3.Controls.Add(btnupdate);
             panel3.Controls.Add(button2);
             panel3.Controls.Add(label13);
-            panel3.Controls.Add(button1);
-            panel3.Controls.Add(dateTimePicker1);
+            panel3.Controls.Add(btninsert);
+            panel3.Controls.Add(odatepick);
             panel3.Controls.Add(label12);
             panel3.Controls.Add(txtpname);
             panel3.Controls.Add(label11);
@@ -263,18 +264,27 @@
             panel3.Size = new Size(733, 687);
             panel3.TabIndex = 2;
             // 
-            // button3
+            // UDQty
             // 
-            button3.Cursor = Cursors.Hand;
-            button3.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
-            button3.ForeColor = SystemColors.Highlight;
-            button3.ImeMode = ImeMode.NoControl;
-            button3.Location = new Point(261, 607);
-            button3.Name = "button3";
-            button3.Size = new Size(173, 47);
-            button3.TabIndex = 24;
-            button3.Text = "Order Update";
-            button3.UseVisualStyleBackColor = true;
+            UDQty.Location = new Point(518, 412);
+            UDQty.Maximum = new decimal(new int[] { 1000, 0, 0, 0 });
+            UDQty.Name = "UDQty";
+            UDQty.Size = new Size(190, 27);
+            UDQty.TabIndex = 25;
+            UDQty.ValueChanged += numericUpDown1_ValueChanged;
+            // 
+            // btnupdate
+            // 
+            btnupdate.Cursor = Cursors.Hand;
+            btnupdate.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
+            btnupdate.ForeColor = SystemColors.Highlight;
+            btnupdate.ImeMode = ImeMode.NoControl;
+            btnupdate.Location = new Point(261, 607);
+            btnupdate.Name = "btnupdate";
+            btnupdate.Size = new Size(173, 47);
+            btnupdate.TabIndex = 24;
+            btnupdate.Text = "Order Update";
+            btnupdate.UseVisualStyleBackColor = true;
             // 
             // button2
             // 
@@ -288,6 +298,7 @@
             button2.TabIndex = 23;
             button2.Text = "Clear";
             button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
             // 
             // label13
             // 
@@ -300,25 +311,28 @@
             label13.TabIndex = 21;
             label13.Text = "Order Date :";
             // 
-            // button1
+            // btninsert
             // 
-            button1.Cursor = Cursors.Hand;
-            button1.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
-            button1.ForeColor = SystemColors.Highlight;
-            button1.ImeMode = ImeMode.NoControl;
-            button1.Location = new Point(67, 607);
-            button1.Name = "button1";
-            button1.Size = new Size(163, 47);
-            button1.TabIndex = 22;
-            button1.Text = "Order Insert";
-            button1.UseVisualStyleBackColor = true;
+            btninsert.Cursor = Cursors.Hand;
+            btninsert.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
+            btninsert.ForeColor = SystemColors.Highlight;
+            btninsert.ImeMode = ImeMode.NoControl;
+            btninsert.Location = new Point(67, 607);
+            btninsert.Name = "btninsert";
+            btninsert.Size = new Size(163, 47);
+            btninsert.TabIndex = 22;
+            btninsert.Text = "Order Insert";
+            btninsert.UseVisualStyleBackColor = true;
+            btninsert.Click += btninsert_Click;
             // 
-            // dateTimePicker1
+            // odatepick
             // 
-            dateTimePicker1.Location = new Point(160, 533);
-            dateTimePicker1.Name = "dateTimePicker1";
-            dateTimePicker1.Size = new Size(250, 27);
-            dateTimePicker1.TabIndex = 20;
+            odatepick.CustomFormat = "dd/mm/yyyy";
+            odatepick.Format = DateTimePickerFormat.Custom;
+            odatepick.Location = new Point(160, 533);
+            odatepick.Name = "odatepick";
+            odatepick.Size = new Size(132, 27);
+            odatepick.TabIndex = 20;
             // 
             // label12
             // 
@@ -335,6 +349,7 @@
             // 
             txtpname.Location = new Point(23, 480);
             txtpname.Name = "txtpname";
+            txtpname.ReadOnly = true;
             txtpname.Size = new Size(190, 27);
             txtpname.TabIndex = 18;
             // 
@@ -355,6 +370,7 @@
             txttotal.Name = "txttotal";
             txttotal.Size = new Size(190, 27);
             txttotal.TabIndex = 16;
+            txttotal.TextChanged += txttotal_TextChanged;
             // 
             // label10
             // 
@@ -384,6 +400,7 @@
             txtprice.Name = "txtprice";
             txtprice.Size = new Size(190, 27);
             txtprice.TabIndex = 12;
+            txtprice.TextChanged += txtprice_TextChanged;
             // 
             // label8
             // 
@@ -400,6 +417,7 @@
             // 
             txtpid.Location = new Point(23, 400);
             txtpid.Name = "txtpid";
+            txtpid.ReadOnly = true;
             txtpid.Size = new Size(190, 27);
             txtpid.TabIndex = 8;
             // 
@@ -437,7 +455,7 @@
             // 
             dataGridViewproduct.AllowUserToAddRows = false;
             dataGridViewproduct.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridViewproduct.Columns.AddRange(new DataGridViewColumn[] { dataGridViewTextBoxColumn1, dataGridViewTextBoxColumn2, dataGridViewTextBoxColumn3, Column4, Column3 });
+            dataGridViewproduct.Columns.AddRange(new DataGridViewColumn[] { dataGridViewTextBoxColumn1, dataGridViewTextBoxColumn2, dataGridViewTextBoxColumn3, Column3, Column4 });
             dataGridViewproduct.Location = new Point(3, 0);
             dataGridViewproduct.Name = "dataGridViewproduct";
             dataGridViewproduct.RowHeadersVisible = false;
@@ -445,7 +463,7 @@
             dataGridViewproduct.RowTemplate.Height = 29;
             dataGridViewproduct.Size = new Size(730, 265);
             dataGridViewproduct.TabIndex = 3;
-            dataGridViewproduct.CellContentClick += dataGridViewproduct_CellContentClick;
+            dataGridViewproduct.CellClick += dataGridViewproduct_CellClick;
             // 
             // dataGridViewTextBoxColumn1
             // 
@@ -469,28 +487,19 @@
             dataGridViewTextBoxColumn3.MinimumWidth = 6;
             dataGridViewTextBoxColumn3.Name = "dataGridViewTextBoxColumn3";
             // 
-            // Column4
-            // 
-            Column4.HeaderText = "Price";
-            Column4.MinimumWidth = 6;
-            Column4.Name = "Column4";
-            Column4.Width = 125;
-            // 
             // Column3
             // 
-            Column3.HeaderText = "Qty";
+            Column3.HeaderText = "price";
             Column3.MinimumWidth = 6;
             Column3.Name = "Column3";
             Column3.Width = 125;
             // 
-            // numericUpDown1
+            // Column4
             // 
-            numericUpDown1.Location = new Point(518, 412);
-            numericUpDown1.Maximum = new decimal(new int[] { 20, 0, 0, 0 });
-            numericUpDown1.Name = "numericUpDown1";
-            numericUpDown1.Size = new Size(190, 27);
-            numericUpDown1.TabIndex = 25;
-            numericUpDown1.ValueChanged += numericUpDown1_ValueChanged;
+            Column4.HeaderText = "Qty";
+            Column4.MinimumWidth = 6;
+            Column4.Name = "Column4";
+            Column4.Width = 125;
             // 
             // ordermoduleform
             // 
@@ -513,8 +522,8 @@
             ((System.ComponentModel.ISupportInitialize)dataGridViewuser).EndInit();
             panel3.ResumeLayout(false);
             panel3.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)UDQty).EndInit();
             ((System.ComponentModel.ISupportInitialize)dataGridViewproduct).EndInit();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown1).EndInit();
             ResumeLayout(false);
         }
 
@@ -530,11 +539,6 @@
         private Panel panel3;
         private DataGridView dataGridViewproduct;
         private Label label2;
-        private DataGridViewTextBoxColumn dataGridViewTextBoxColumn1;
-        private DataGridViewTextBoxColumn dataGridViewTextBoxColumn2;
-        private DataGridViewTextBoxColumn dataGridViewTextBoxColumn3;
-        private DataGridViewTextBoxColumn Column4;
-        private DataGridViewTextBoxColumn Column3;
         private TextBox searchcust;
         private TextBox searchprod;
         private Label label3;
@@ -555,10 +559,15 @@
         private Label label8;
         private TextBox txtpid;
         private Label label13;
-        private DateTimePicker dateTimePicker1;
-        public Button button3;
+        private DateTimePicker odatepick;
+        public Button btnupdate;
         public Button button2;
-        public Button button1;
-        private NumericUpDown numericUpDown1;
+        public Button btninsert;
+        private NumericUpDown UDQty;
+        private DataGridViewTextBoxColumn dataGridViewTextBoxColumn1;
+        private DataGridViewTextBoxColumn dataGridViewTextBoxColumn2;
+        private DataGridViewTextBoxColumn dataGridViewTextBoxColumn3;
+        private DataGridViewTextBoxColumn Column3;
+        private DataGridViewTextBoxColumn Column4;
     }
 }

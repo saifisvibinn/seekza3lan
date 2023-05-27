@@ -87,10 +87,12 @@
             dataGridViewuser.Dock = DockStyle.Fill;
             dataGridViewuser.Location = new Point(0, 0);
             dataGridViewuser.Name = "dataGridViewuser";
+            dataGridViewuser.RowHeadersVisible = false;
             dataGridViewuser.RowHeadersWidth = 51;
             dataGridViewuser.RowTemplate.Height = 29;
             dataGridViewuser.Size = new Size(1081, 474);
             dataGridViewuser.TabIndex = 32;
+            dataGridViewuser.CellContentClick += dataGridViewuser_CellContentClick;
             // 
             // Column7
             // 

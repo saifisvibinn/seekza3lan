@@ -13,7 +13,7 @@ namespace Stock_managment
 {
     public partial class newcustomer : Form
     {
-        SqlConnection conn = new SqlConnection(@"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=AdminTable;Integrated Security=True");
+        SqlConnection conn = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\drago\OneDrive\Documents\newdb.mdf;Integrated Security=True;Connect Timeout=30");
         SqlCommand cmd = new SqlCommand();
         public newcustomer()
         {
@@ -34,7 +34,6 @@ namespace Stock_managment
                 cmd.ExecuteNonQuery();
                 conn.Close();
                 Mainform mainform = new Mainform();
-                mainform.ShowDialog();
                 this.Close();
 
             }

@@ -13,7 +13,7 @@ namespace Stock_managment
 {
     public partial class manageproduct : Form
     {
-        SqlConnection conn = new SqlConnection(@"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=AdminTable;Integrated Security=True");
+        SqlConnection conn = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\drago\OneDrive\Documents\newdb.mdf;Integrated Security=True;Connect Timeout=30");
         SqlCommand cmd = new SqlCommand();
         SqlDataReader dr;
 
@@ -44,9 +44,9 @@ namespace Stock_managment
             {
                 cmd = new SqlCommand("insert into newprodTB(PID,name,price,Qty) values(@PID,@name,@price,@Qty)", conn);
                 cmd.Parameters.AddWithValue("@name", username.Text);
-                cmd.Parameters.AddWithValue("@price", Convert.ToInt16(qty.Text));
-                cmd.Parameters.AddWithValue("@Qty", Convert.ToInt16(price.Text));
-                cmd.Parameters.AddWithValue("@PID", Convert.ToInt16(pid.Text));
+                cmd.Parameters.AddWithValue("@price", Convert.ToInt32(qty.Text));
+                cmd.Parameters.AddWithValue("@Qty", Convert.ToInt32(price.Text));
+                cmd.Parameters.AddWithValue("@PID", Convert.ToInt32(pid.Text));
 
 
 
@@ -56,7 +56,7 @@ namespace Stock_managment
                 cmd.ExecuteNonQuery();
                 conn.Close();
                 Mainform mainform = new Mainform();
-                mainform.ShowDialog();
+              
                 this.Close();
 
             }

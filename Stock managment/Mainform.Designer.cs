@@ -30,17 +30,20 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Mainform));
             panel1 = new Panel();
-            label6 = new Label();
             label4 = new Label();
             label1 = new Label();
             bunifuFlatButton4 = new Bunifu.Framework.UI.BunifuFlatButton();
             bunifuFlatButton2 = new Bunifu.Framework.UI.BunifuFlatButton();
             productbutton = new Bunifu.Framework.UI.BunifuFlatButton();
             pictureBox1 = new PictureBox();
+            label6 = new Label();
             panelmain = new Panel();
+            pictureBox2 = new PictureBox();
             panel2 = new Panel();
             panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
+            panelmain.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             SuspendLayout();
             // 
             // panel1
@@ -57,23 +60,12 @@
             panel1.Size = new Size(1165, 117);
             panel1.TabIndex = 2;
             // 
-            // label6
-            // 
-            label6.AutoSize = true;
-            label6.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
-            label6.ForeColor = Color.White;
-            label6.Location = new Point(613, 103);
-            label6.Name = "label6";
-            label6.Size = new Size(84, 20);
-            label6.TabIndex = 17;
-            label6.Text = "Customers";
-            // 
             // label4
             // 
             label4.AutoSize = true;
             label4.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
             label4.ForeColor = Color.White;
-            label4.Location = new Point(923, 102);
+            label4.Location = new Point(923, 101);
             label4.Name = "label4";
             label4.Size = new Size(56, 20);
             label4.TabIndex = 16;
@@ -208,13 +200,34 @@
             pictureBox1.TabIndex = 0;
             pictureBox1.TabStop = false;
             // 
+            // label6
+            // 
+            label6.AutoSize = true;
+            label6.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
+            label6.ForeColor = Color.White;
+            label6.Location = new Point(613, 103);
+            label6.Name = "label6";
+            label6.Size = new Size(84, 20);
+            label6.TabIndex = 17;
+            label6.Text = "Customers";
+            // 
             // panelmain
             // 
+            panelmain.Controls.Add(pictureBox2);
             panelmain.Location = new Point(1, 125);
             panelmain.Name = "panelmain";
             panelmain.Size = new Size(1164, 546);
             panelmain.TabIndex = 17;
             panelmain.Paint += panelmain_Paint;
+            // 
+            // pictureBox2
+            // 
+            pictureBox2.Image = (Image)resources.GetObject("pictureBox2.Image");
+            pictureBox2.Location = new Point(306, 120);
+            pictureBox2.Name = "pictureBox2";
+            pictureBox2.Size = new Size(530, 276);
+            pictureBox2.TabIndex = 0;
+            pictureBox2.TabStop = false;
             // 
             // panel2
             // 
@@ -243,6 +256,8 @@
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
+            panelmain.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -259,5 +274,6 @@
         private Panel panelmain;
         private Label label6;
         private Panel panel2;
+        private PictureBox pictureBox2;
     }
 }

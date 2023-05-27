@@ -119,6 +119,7 @@
             // 
             pictureBox2.Cursor = Cursors.Hand;
             pictureBox2.Image = (Image)resources.GetObject("pictureBox2.Image");
+            pictureBox2.InitialImage = (Image)resources.GetObject("pictureBox2.InitialImage");
             pictureBox2.Location = new Point(1026, -3);
             pictureBox2.Name = "pictureBox2";
             pictureBox2.Size = new Size(52, 51);

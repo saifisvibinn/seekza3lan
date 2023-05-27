@@ -14,7 +14,7 @@ namespace Stock_managment
     public partial class productsform : Form
     {
 
-        SqlConnection conn = new SqlConnection(@"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=AdminTable;Integrated Security=True");
+        SqlConnection conn = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\drago\OneDrive\Documents\newdb.mdf;Integrated Security=True;Connect Timeout=30");
         SqlCommand cmd = new SqlCommand();
         SqlDataReader dr;
         public productsform()
@@ -52,6 +52,7 @@ namespace Stock_managment
             manageproduct.button1.Enabled = true;
             manageproduct.button3.Enabled = false;
             manageproduct.ShowDialog();
+            this.Dispose();
             loadprodcut();
         }
 
